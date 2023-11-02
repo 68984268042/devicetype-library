@@ -1,0 +1,68 @@
+manufacturer: intelbras
+model: SG 2404 MR L2+ 
+slug: SG 2404 MR L2+ 
+part_number: SG 2404 MR L2+ 
+u_height: 1
+console-ports: 1
+  - name: con 0
+    type: rj-45
+power-ports: 1
+  - name: Power Supply 0
+    type: iec-60320-c14
+interfaces:
+  - name: interface gi0/1
+    type: 1000base-tx
+  - name: interface gi0/2
+    type: 1000base-tx
+  - name: interface gi0/3
+    type: 1000base-tx
+  - name: interface gi0/4
+    type: 1000base-tx
+  - name: interface gi0/5
+    type: 1000base-tx
+  - name: interface gi0/6
+    type: 1000base-tx
+  - name: interface gi0/7
+    type: 1000base-tx
+  - name: interface gi0/8
+    type: 1000base-tx
+  - name: interface gi0/9
+    type: 1000base-tx
+  - name: interface gi0/10
+    type: 1000base-tx
+  - name: interface gi0/11
+    type: 1000base-tx
+  - name: interface gi0/12
+    type: 1000base-tx
+  - name: interface gi0/13
+    type: 1000base-tx
+  - name: interface gi0/14
+    type: 1000base-tx
+  - name: interface gi0/15
+    type: 1000base-tx
+  - name: interface gi0/16
+    type: 1000base-tx
+  - name: interface gi0/17
+    type: 1000base-tx
+  - name: interface gi0/18
+    type: 1000base-tx
+  - name: interface gi0/19
+    type: 1000base-tx
+  - name: interface gi0/20
+    type: 1000base-tx
+  - name: interface gi0/21
+    type: 1000base-tx
+  - name: interface gi0/22
+    type: 1000base-tx
+  - name: interface gi0/23
+    type: 1000base-tx
+  - name: interface gi0/24
+    type: 1000base-tx
+  - name: interface gi0/25
+    type: 1000base-tx-sfp
+  - name: interface gi0/26
+    type: 1000base-tx-sfp
+- name: interface gi0/27
+    type: 1000base-tx-sfp
+  - name: interface gi0/28
+    type: 1000base-tx-sfp
